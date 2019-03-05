@@ -1,5 +1,5 @@
 module.exports = function warmup(temperature) {
-  // your implementation here
+ 
   var warmup;
 
     var temperature
